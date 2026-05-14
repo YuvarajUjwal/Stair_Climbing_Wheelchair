@@ -71,8 +71,9 @@ stair_climbing_wheelchair/stair_climbing_wheelchair.ino
 
 Project report:
 
-- Stair_Climbing_Wheelchair_Report.pdf
-
+```text
+Stair_Climbing_Wheelchair_Report.pdf
+```
 ---
 
 ## Disclaimer
