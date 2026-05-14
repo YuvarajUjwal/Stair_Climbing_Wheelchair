@@ -15,7 +15,7 @@ The system was designed to help elderly and differently-abled individuals naviga
 - Rocker-bogie suspension mechanism
 - Bluetooth-based wireless control
 - Arduino UNO based control
-- Servo motor wheel assembly
+- Servo motor wheels assembly
 - Prototype stair climbing capability
 
 ---
