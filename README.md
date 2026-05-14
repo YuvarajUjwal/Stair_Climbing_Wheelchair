@@ -62,7 +62,7 @@ The prototype uses a rocker-bogie suspension mechanism inspired by rover mobilit
 The Arduino code used for motor and Bluetooth control is included in:
 
 ```text
-stair_climbing_wheelchair.ino
+stair_climbing_wheelchair/stair_climbing_wheelchair.ino
 ```
 
 ---
