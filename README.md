@@ -1,6 +1,6 @@
 # Stair Climbing Wheelchair using Rocker-Bogie Mechanism
 
-Academic mini project developed during B.Tech.
+Academic mini project developed during my B.Tech.
 
 ## Overview
 
@@ -72,7 +72,7 @@ stair_climbing_wheelchair/stair_climbing_wheelchair.ino
 Project report:
 
 ```text
-Stair_Climbing_Wheelchair_Report.pdf
+Stair Climbing Wheelchair.pdf
 ```
 ---
 
